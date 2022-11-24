@@ -20,5 +20,13 @@ val authorStorage = mutableListOf(
         "https://miro.medium.com/1*9j85cICWzDQeY8Nb4QrL4Q.jpeg",
         0,
         "https://medium.com/@dagalpin"
+    ),
+    Author(
+        2,
+        "Manuel Vivo",
+        "Android DevRel @ Google",
+        "https://miro.medium.com/1*jIuNkwfzLBQ_EolcjHYSNg.jpeg",
+        0,
+        "https://medium.com/@manuelvicnt"
     )
 )
